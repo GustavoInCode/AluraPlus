@@ -2,10 +2,11 @@
 Projeto desenvolvido através do curso da Alura Formação Front-end, com o objetivo de divulgar a plataforma de streaming da Alura.
 
 ## Link para visualizar o deploy do projeto.
-[Deploy na Vercel](https://alura-plus-pi-five.vercel.app](https://meu-adopet.vercel.app)
+[Deploy na Vercel](https://alura-plus-pi-five.vercel.app) e [Deploy GitHub Pages](https://gustavoincode.github.io/AluraPlus/)
 
 ## Screenshots
-![adopet-1](https://user-images.githubusercontent.com/50561723/176330597-fc7d6ebd-727b-4e5a-91fa-629bba59ad86.png)
-![adopet-2](https://user-images.githubusercontent.com/50561723/176330608-96a19800-bd36-4597-9e01-571e2d9984d7.png)
-![adopet-3](https://user-images.githubusercontent.com/50561723/176330617-924b9540-8fa0-4858-9524-c6ae254b67b8.png)
-![adopet-4](https://user-images.githubusercontent.com/50561723/176330621-2c710511-fbe8-4fb4-a60e-ea5b4c373a78.png)
+![home-aluraplus](https://user-images.githubusercontent.com/50561723/166693197-a63fdff8-b506-4fcb-b23d-50e11dbb8554.png)
+![aluraplus2](https://user-images.githubusercontent.com/50561723/166693483-a4c7ab11-0573-4264-a109-205ca2b0f931.png)
+![aluraplus3](https://user-images.githubusercontent.com/50561723/166693703-aec24da8-0a60-4635-88ff-8841638c2f49.png)
+![aluraplus4](https://user-images.githubusercontent.com/50561723/166693898-4cda9a0e-7688-4707-b307-3b6884b80e9e.png)
+![aluraplus5](https://user-images.githubusercontent.com/50561723/166694033-3953911d-48f5-4773-8f37-169e2a1019bf.png)
